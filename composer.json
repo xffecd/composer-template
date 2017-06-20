@@ -11,5 +11,6 @@
     },
     "autoload": {
         "psr-4": {"venus\\common\\": "src/"}
-    }
+    },
+    "minimum-stability" : "dev"
 }
