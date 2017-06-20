@@ -10,6 +10,6 @@
         "psr/log": "~1.0"
     },
     "autoload": {
-        "psr-4": {"venus\\common": "src/"}
+        "psr-4": {"venus\\common\\": "src/"}
     }
 }
