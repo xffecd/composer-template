@@ -10,11 +10,5 @@
     },
     "autoload": {
         "psr-4": {"venus\\common\\": "src/"}
-    },
-    "minimum-stability" : "dev",
-    "extra": {
-        "branch-alias": {
-            "dev-master": "1.0.x-dev"
-        }
     }
 }
